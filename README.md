@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @petitess
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋  👀  🌱  💞️  📫 
 ```
 git checkout main
 ```
@@ -10,16 +6,16 @@ git checkout main
 git pull
 ```
 ```
-git checkout -b feature/testbranch
+git checkout -b feature/x
 ```
 ```
 git add .
 ```
 ```
-git commit --message "app service + app insight + disk"
+git commit --message "updated"
 ```
 ```
-git push --set-upstream origin feature/testbranch
+git push --set-upstream origin feature/x
 ```
 
 <!---
