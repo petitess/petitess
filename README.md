@@ -1,20 +1,10 @@
  👋  👀  🌱  💞️  📫 
 ```
 git checkout main
-```
-```
 git pull
-```
-```
 git checkout -b feature/x
-```
-```
 git add .
-```
-```
 git commit --message "updated"
-```
-```
 git push --set-upstream origin feature/x
 ```
 
