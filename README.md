@@ -8,6 +8,7 @@ git commit --message "updated"
 git push --set-upstream origin feature/x
 git push origin --delete feature/x
 git reset --hard
+git log -S <search_phrase>
 ```
 
 <!---
