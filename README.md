@@ -1,5 +1,5 @@
  👋  👀  🌱  💞️  📫 
-```
+```s
 git checkout main
 git pull
 git checkout -b feature/x
