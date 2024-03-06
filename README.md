@@ -10,6 +10,8 @@ git push origin --delete feature/x
 git reset --hard
 git log -S <search_phrase>
 git checkout feature/x
+git branch -d localBranchName
+git push origin --delete remoteBranchName
 ```
 
 <!---
