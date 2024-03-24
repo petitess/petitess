@@ -7,11 +7,13 @@ git add .
 git commit --message "updated"
 git push --set-upstream origin feature/x
 git push origin --delete feature/x
-git reset --hard
+git reset --hard origin/main
 git log -S <search_phrase>
 git checkout feature/x
 git branch -d localBranchName
 git push origin --delete remoteBranchName
+git fetch origin
+git merge origin/main
 ```
 
 <!---
