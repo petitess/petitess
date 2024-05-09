@@ -14,6 +14,7 @@ git branch -d localBranchName
 git push origin --delete remoteBranchName
 git fetch origin
 git merge origin/main
+git rm -rf --cached .
 ```
 
 <!---
