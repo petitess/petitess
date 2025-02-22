@@ -15,6 +15,8 @@ git push origin --delete remoteBranchName
 git fetch origin
 git merge origin/main
 git rm -rf --cached .
+git pull --rebase
+git rebase --abort
 ```
 
 <!---
