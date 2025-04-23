@@ -17,6 +17,10 @@ git merge origin/main
 git rm -rf --cached .
 git pull --rebase
 git rebase --abort
+__________________
+git revert --no-commit 0d1d7fc3..HEAD
+git commit
+git push
 ```
 
 <!---
