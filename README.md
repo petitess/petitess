@@ -6,8 +6,12 @@ git checkout -b feature/x
 git add .
 git commit --message "updated"
 git push --set-upstream origin feature/x
+```
+```s
 git push origin --delete feature/x
 git reset --hard origin/main
+```
+```s
 git log -S <search_phrase>
 git checkout feature/x
 git branch -d localBranchName
@@ -17,10 +21,18 @@ git merge origin/main
 git rm -rf --cached .
 git pull --rebase
 git rebase --abort
-__________________
+```
+```s
 git revert --no-commit 0d1d7fc3..HEAD
 git commit
 git push
+```
+```s
+git add .
+git commit -m "This commit is a mistake"
+git reset HEAD~
+git add .
+git commit -m "This commit corrects the mistake"
 ```
 
 <!---
