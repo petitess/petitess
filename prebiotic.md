@@ -1,5 +1,5 @@
 # The Prebiotic diet
-This is a protocol to resolve gut related diseases (IBS, dysbiosis, Crohn’s Disease, H Pylori, etc). 
+This is a protocol to resolve gut related diseases (IBS, dysbiosis, Crohn’s Disease, H Pylori, depression etc). 
 Do this protocol for 2 months.
 
 ### DIET
