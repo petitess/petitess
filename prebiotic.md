@@ -15,10 +15,10 @@ Do this protocol for 2 months.
 greens, broccoli, berries and apples
 
 ### PREBIOTIC SHAKE
-- 2 table spoons PHGG (Partially Hydrolyzed Guar Gum)
-- 2 table spoons Rice bran
-- 1-2 table spoons Green banana powder/flour or/and Potato Starch
-- 1 tea spoon Inulin
+- 2 tablespoons PHGG (Partially Hydrolyzed Guar Gum)
+- 2 tablespoons Rice bran
+- 1-2 tablespoons Green banana powder/flour or/and Potato Starch
+- 1 teaspoon Inulin
 - 500ml water
 - Add Everything to your shaker bottle and drink twice a day
 - After 2 months do only one shake as a maintenance dose
