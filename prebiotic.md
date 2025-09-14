@@ -16,15 +16,16 @@ greens, broccoli, berries and apples
 
 ### PREBIOTIC SHAKE
 - 2 tablespoons PHGG (Partially Hydrolyzed Guar Gum)
-- 2 tablespoons Rice bran
-- 1-2 tablespoons Green banana powder/flour or/and Potato Starch
+- 2 tablespoons Rice bran (wheat bran, rye bran or barley bran works as well if gluten is not an issue)
+- 2 tablespoons Green banana powder/flour or/and Potato Starch
 - 1 teaspoon Inulin
+- 1/2 teaspoon apple pactin
 - 500ml water
 - Add Everything to your shaker bottle and drink twice a day
 - After 2 months do only one shake as a maintenance dose
 
 ### SUPPLEMENTS
-- Butyrate one capsle with each meal
+- Butyrate 4000mg per day
 - Vitamin A (not carotenoids) take 50,000 IU/day 
 
 ### EXAMPLE DIET
@@ -59,11 +60,12 @@ greens, broccoli, berries and apples
 #### Butyrate:
 - RevivaBio - Smörsyra
   - https://naturprodukter.se/produkt/smorsyra-90-kapslar
-
+- SFD - Smörsyra (Polish product)
+  - https://makeup.se/product/736762
+  - https://makeup.se/product/782671
 #### Vitamin A:
 - Protocol For Life - Vitamin A
   - https://naturprodukter.se/produkt/a-25000-iu-100-sgels
-
 #### PHGG:
 - Thorne Research - FiberMend
   - https://skanstullshalsokost.se/halsa-kosttillskott/vikt-detox/detox/thorne-research-fibermend-330-g
@@ -71,15 +73,17 @@ greens, broccoli, berries and apples
   - https://www.apoteket.se/produkt/sunwic-kostfiber-200-g-burk-ej-metall-1565453
 - Body Science - Premium Fiber
   - https://www.mmsports.se/kosttillskott/viktnedgang/premium-fiber.html
-
 #### Rice bran:
 - Reiskleie - 1 kg Vorratspack (German site, ships to Sweden)
   - https://www.piowald.com/cerealien-flocken/reiskleie/89/reiskleie-1-kg-vorratspack
-
+#### Wheat bran:
+- Kruskakli - 300g Kungsörnen
+  - https://handla.ica.se/produkt/2076477
 #### Green banana powder:
 - Rawfoodshop - Bananmjöl EKO 1kg
   - https://www.rawfoodshop.se/bananmjol-eko-1kg
-
 #### Inulin:
 - Natur drogeriet - Inulin
     - https://www.natur-drogeriet.com/products/supplements/dietary-supplements/inulin-from-chicory-root-150-g
+- Rawfoodshop - Agave Inulin
+  - https://www.rawfoodshop.se/agave-inulin-eko-125g-2
