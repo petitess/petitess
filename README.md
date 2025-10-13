@@ -28,6 +28,16 @@ git commit
 git push
 ```
 ```s
+git checkout main
+git log --oneline
+git show 3842103
+git revert 3842103
+git checkout -b feature/x
+git add .
+git commit --message "reverted"
+git push --set-upstream origin feature/x
+```
+```s
 git add .
 git commit -m "This commit is a mistake"
 git reset HEAD~
