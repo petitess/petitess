@@ -44,7 +44,12 @@ git reset HEAD~
 git add .
 git commit -m "This commit corrects the mistake"
 ```
-
+```json
+{
+  "key": "ctrl+shift+z",
+  "command": "workbench.action.terminal.runSelectedText"
+}
+```
 <!---
 petitess/petitess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
