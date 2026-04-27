@@ -15,22 +15,23 @@ Do this protocol for 2 months.
 greens, broccoli, berries and apples
 
 ### PREBIOTIC SHAKE
-- 2 tablespoons PHGG (Partially Hydrolyzed Guar Gum)
-- 2 tablespoons Rice bran (wheat bran, rye bran or barley bran works as well if gluten is not an issue)
+- <ins>2 tablespoons PHGG (Partially Hydrolyzed Guar Gum)</ins>
+- <ins>2 tablespoons Rice bran (wheat bran, rye bran or barley bran works as well if gluten is not an issue)</ins>
 - 2 tablespoons Green banana powder/flour or/and Potato Starch
-- 1 teaspoon Inulin
-- 1/2 teaspoon apple pactin
+- <ins>1-2 teaspoons Inulin</ins>
+- 1/2 teaspoon apple pactin or/and 2 apples
 - 500ml water
 - Add Everything to your shaker bottle and drink twice a day
 - After 2 months do only one shake as a maintenance dose
 
 ### SUPPLEMENTS
 - Butyrate 4000mg per day
-- Vitamin A (not carotenoids) take 50,000 IU/day 
+- Vitamin A (not carotenoids) take 50,000 IU/day
+- PEA (Palmitoylethanolamide)
 
 ### EXAMPLE DIET
 #### Breakfast:
-- Blueberries with coconut milk
+- Blueberries & Raspberries with coconut milk
 - A green apple
 - Eggs with onion and salt 
 - Beet
@@ -38,6 +39,8 @@ greens, broccoli, berries and apples
 
 #### Lunch:
 - Meat/Fish
+- Himalayan salt
+- Chili Powder
 - Cooled Potato
 - Carrots
 
@@ -58,6 +61,8 @@ greens, broccoli, berries and apples
 
 ### LINKS TO BUY THE PRODUCTS:
 #### Butyrate:
+- BodyBio - Calcium Magnesium Butyrate
+  - https://iherb.com/pr/bodybio-calcium-magnesium-butyrate-250-capsules/105890
 - RevivaBio - Smörsyra
   - https://naturprodukter.se/produkt/smorsyra-90-kapslar
 - SFD - Smörsyra (Polish product)
@@ -66,6 +71,9 @@ greens, broccoli, berries and apples
 #### Vitamin A:
 - Protocol For Life - Vitamin A
   - https://naturprodukter.se/produkt/a-25000-iu-100-sgels
+#### PEA 
+- Neurogan Health - Pea Pro
+  - https://se.iherb.com/pr/neurogan-health-pea-pro-90-capsules-500-mg-per-capsule/150782
 #### PHGG:
 - Thorne Research - FiberMend
   - https://skanstullshalsokost.se/halsa-kosttillskott/vikt-detox/detox/thorne-research-fibermend-330-g
@@ -87,3 +95,5 @@ greens, broccoli, berries and apples
     - https://www.natur-drogeriet.com/products/supplements/dietary-supplements/inulin-from-chicory-root-150-g
 - Rawfoodshop - Agave Inulin
   - https://www.rawfoodshop.se/agave-inulin-eko-125g-2
+- Micro Ingredients - Organic Inulin Powder
+  - https://iherb.com/pr/micro-ingredients-organic-inulin-powder-unflavored-2-2-lb-998-g/142765
